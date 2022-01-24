@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mamitkumar123
+- 👋 Hi, I’m @Mamit-Kumar
 - 👀 I’m interested in Programming 
 - 🌱 I’m currently learning Flutter App Dovelpment
 - 💞️ I’m looking to collaborate on Nothing
